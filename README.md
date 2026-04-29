@@ -4,7 +4,7 @@
 
 ### Sobre mim
 
-- 🎯 Atualmente Analista Jr. na [Multilaser](https://www.multilaser.com.br/)
+- 🎯 Atualmente Analista Pl. na [Multilaser](https://www.multilaser.com.br/)
 - 🎓 Bacharelado em Ciência da Computação
 - ⚙️ Desenvolvo sistemas web e automações — do design ao deploy
 - 🧩 Foco em otimizar processos e criar soluções escaláveis
